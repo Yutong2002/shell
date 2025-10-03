@@ -52,4 +52,4 @@ ls -R processed > inventory.txt
 cat inventory.txt
 ###########################################
 
-echo "Project setup is complete!"
+echo "Project setup is completed!"
